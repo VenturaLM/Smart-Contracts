@@ -2,6 +2,10 @@
 pragma solidity >=0.4.4 <0.7.0;
 pragma experimental ABIEncoderV2;
 
+/// @title Marks.
+/// @author Ventura Lucena Martínez.
+/// @notice Ejemplo de un contrato inteligente que sirve para gestionar la evaluación de estudiantes.
+/// @dev ...
 contract Marks {
     // Professor's address.
     address public prof_addr;
